@@ -5,5 +5,5 @@ const r=file.readFileSync('read.txt');
 console.log(r);
 console.log("read file:");
 console.log(r.toString());
-// file.renameSync('read.txt','myfirstfile.txt ');
+file.renameSync('read.txt','myfirstfile.txt ');
 
