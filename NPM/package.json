@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.2",
+    "express": "^4.21.2",
+    "npm": "^11.0.0",
     "validator": "^13.11 .0"
   }
 }
